@@ -1,0 +1,12 @@
+# Power BI specific backups and temporary files
+*.pbix.zip
+*.pbit.zip
+*.pbix.copy
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Other temp files
+*.tmp
+*.log
